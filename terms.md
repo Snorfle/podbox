@@ -28,4 +28,4 @@ PodBox is provided "as is" without warranty of any kind. The app's author is not
 
 ## Contact
 
-brianlehr@gmail.com
+snorfle@outlook.com

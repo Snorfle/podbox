@@ -20,4 +20,4 @@ PodBox connects directly to podcast feed URLs, episode audio URLs, and the publi
 
 ## Contact
 
-brianlehr@gmail.com
+snorfle@outlook.com
