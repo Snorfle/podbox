@@ -15,4 +15,4 @@ Built for the controller. D-pad to move, LT/RT to seek. Works on Windows too, bu
 
 ## Contact
 
-snorfle@gmail.com
+snorfle@outlook.com
