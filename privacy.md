@@ -16,7 +16,7 @@ PodBox is a podcast player for Xbox. We do not operate any servers and we do not
 
 ## Network requests
 
-PodBox connects directly to podcast feed URLs, episode audio URLs, and the public iTunes Search API to discover and play podcasts. We do not proxy or log this traffic.
+PodBox connects directly to podcast feed URLs, episode audio URLs, and the public Apple Music Search API to discover and play podcasts. We do not proxy or log this traffic.
 
 ## Contact
 
